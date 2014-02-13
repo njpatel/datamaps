@@ -4,7 +4,7 @@
   "description": "Interactive maps for data visualizations. Bundled into a single Javascript file.",
   "keywords": ["d3", "w3c", "visualization", "svg", "datamaps"],
   "version": "0.2.2",
-  "main": "datamaps.world.min.js",
+  "main": "dist/datamaps.world.min.js",
   "scripts": ["dist/datamaps.world.min.js"],
   "dependencies": {
     "njpatel/topojson": "*",
